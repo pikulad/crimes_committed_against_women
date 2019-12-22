@@ -1,7 +1,7 @@
 # District wise crimes committed against women between 2001 to 2012
 
 ## QUESTIONS OF ANALYSIS
-1 description of dataset
+1 description of dataset.
 2 which is the highest crime??
 3 crime wise report for all state.
 4 district wise all crime report.
